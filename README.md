@@ -6,7 +6,7 @@ https://www.machinehack.com/course/odi-match-winner-weekend-hackathon-9
 
 <img src="image.png">
 
-## Model
+## Highlights
 * Formulation:
     - I spend most of the time to solve a multi-class classification problem
     - Tried blending LogisticRegression, Catboost and RF model to get the best public LB score 
